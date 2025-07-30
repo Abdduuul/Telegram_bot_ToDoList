@@ -4,8 +4,6 @@ Ini adalah proyek sederhana untuk membuat bot Telegram yang berfungsi sebagai pe
 
 Bot ini dirancang untuk penggunaan pribadi atau tim kecil yang berbagi satu daftar tugas yang sama.
 
-![Contoh Tampilan Bot](https://placehold.co/600x400/333333/FFFFFF?text=Contoh+Tampilan+Bot)
-
 ---
 
 ## ✨ Fitur
